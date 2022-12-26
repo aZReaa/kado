@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.greeting{
+    font-size: 50px;
+    padding-top: 15%;
+    font-family: Arial;
+    text-align: center;
+    color: cyan;
+}
+.description{
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
